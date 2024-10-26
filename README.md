@@ -1,3 +1,3 @@
 # 6 неделя
-Форкните репозиторий https://github.com/PolFrol/Abanking-education-html. Выполните верстку (https://www.figma.com/file/Q0NRWxV8L7kQEaVDeMSMhw/John-(Copy)?node-id=0%3A1). Загрузите на 
+Форкните репозиторий https://github.com/PolFrol/Abanking-education-html. Выполните верстку (https://www.figma.com/design/jFj70BijeNOjaCI9N6wZZf/For-univrseity-course-landing?t=B5TJdOBXNCjwrBQ2-1). Загрузите на 
 платформу файл solution.js, где в функции будет возвращаться ссылка на ваш репозиторий
